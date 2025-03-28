@@ -1,4 +1,4 @@
-# Xeon-Xd
+
 # Xeon Xd WhatsApp Bot 💀
 
 ![Bot Image](https://files.catbox.moe/kzfne8.jpeg)

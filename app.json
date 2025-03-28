@@ -1,5 +1,5 @@
 {
-  "name": "Xeon Md",
+  "name": "PRINCE MDXI",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴍᴅx  ",
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
   "keywords": ["bot"],
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "Xeon Md"
+      "value": "𝗣𝗥𝗜𝗡𝗖𝗘 𝗠𝗗𝗫"
     }, 
 
     "HEART_REACT": {
